@@ -5,3 +5,5 @@ as it pertains to the management of current/future/past Squires.
 
 At first I was asked to maintain discretion (with my first vulnerability report)
 Then, I was told that this isn't private information, therefore no such legal pursuit should occur :)
+
+Enjoy a glimpse in the life of the Elite Club, the Jack Daniel's Tennessee Squire Association.
